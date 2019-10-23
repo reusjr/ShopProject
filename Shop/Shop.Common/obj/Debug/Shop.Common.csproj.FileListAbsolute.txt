@@ -1,0 +1,4 @@
+C:\Users\Reus\Desktop\ShopProject\Shop\Shop.Common\bin\Debug\Shop.Common.dll
+C:\Users\Reus\Desktop\ShopProject\Shop\Shop.Common\bin\Debug\Shop.Common.pdb
+C:\Users\Reus\Desktop\ShopProject\Shop\Shop.Common\obj\Debug\Shop.Common.dll
+C:\Users\Reus\Desktop\ShopProject\Shop\Shop.Common\obj\Debug\Shop.Common.pdb

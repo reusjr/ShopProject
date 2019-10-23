@@ -1,0 +1,16 @@
+C:\Users\Reus\Desktop\ShopProject\Shop\Shop.Service\bin\Debug\Shop.Service.dll
+C:\Users\Reus\Desktop\ShopProject\Shop\Shop.Service\bin\Debug\Shop.Service.pdb
+C:\Users\Reus\Desktop\ShopProject\Shop\Shop.Service\obj\Debug\Shop.Service.dll
+C:\Users\Reus\Desktop\ShopProject\Shop\Shop.Service\obj\Debug\Shop.Service.pdb
+C:\Users\Reus\Desktop\ShopProject\Shop\Shop.Service\bin\Debug\Shop.Common.dll
+C:\Users\Reus\Desktop\ShopProject\Shop\Shop.Service\bin\Debug\Shop.Data.dll
+C:\Users\Reus\Desktop\ShopProject\Shop\Shop.Service\bin\Debug\Shop.Model.dll
+C:\Users\Reus\Desktop\ShopProject\Shop\Shop.Service\bin\Debug\Shop.Common.pdb
+C:\Users\Reus\Desktop\ShopProject\Shop\Shop.Service\bin\Debug\Shop.Data.pdb
+C:\Users\Reus\Desktop\ShopProject\Shop\Shop.Service\bin\Debug\Shop.Data.dll.config
+C:\Users\Reus\Desktop\ShopProject\Shop\Shop.Service\bin\Debug\Shop.Model.pdb
+C:\Users\Reus\Desktop\ShopProject\Shop\Shop.Service\bin\Debug\Shop.Model.dll.config
+C:\Users\Reus\Desktop\ShopProject\Shop\Shop.Service\obj\Debug\Shop.Service.csprojAssemblyReference.cache
+C:\Users\Reus\Desktop\ShopProject\Shop\Shop.Service\obj\Debug\Shop.Service.csproj.CopyComplete
+C:\Users\Reus\Desktop\ShopProject\Shop\Shop.Service\bin\Debug\EntityFramework.dll
+C:\Users\Reus\Desktop\ShopProject\Shop\Shop.Service\bin\Debug\EntityFramework.xml
